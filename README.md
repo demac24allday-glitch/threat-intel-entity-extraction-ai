@@ -1,2 +1,3 @@
-# threat-intel-entity-extraction-ai
-Threat intelligence extraction using spaCy and LLaMa 3 via Ollama
+# Threat Intelligence Extraction with spaCy & LLaMA 3
+
+Threat intelligence extraction using spaCy and LLaMA 3 via Ollama.
